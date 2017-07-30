@@ -1,1 +1,2 @@
 # Communicating_School_Diversity
+This is a study of the consequences of marketing school diversity in different ways.  In experimental condition 1, parents were presented racial/ethnic diversity of a potential school using a) pictures of diverse children or b) pie charts of a diverse school body.  In experimental condition 2, parents were told the school had a high, medium, or low income student body.  This constituted a 2 x 3 factorial design for examining interactions between diversity and socioeconomic makeup of a school. 
